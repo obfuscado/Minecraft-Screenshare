@@ -1,0 +1,9 @@
+main: com.github.thikerblow.screenshare.Plugin
+version: 1.0
+name: Screenshare
+author: ThikerBlow
+api-version: 1.17
+
+commands:
+  screenshare:
+    aliases: [screenshare, ss]
